@@ -96,7 +96,11 @@ nav ul li a:hover::after{
     border-radius: 15px;
 }
 .about-col-2{
-    flex-basis: 60%;
+    flex-basis: 35%;
+}
+.about-col-2 img{
+    width: 100%;
+    border-radius: 15px;
 }
 
 .sub-title{
@@ -349,7 +353,7 @@ form .btn2{
 .copyright{
     width: 100%;
     text-align: center;
-    padding: 25px 0;
+    padding: 15px 0;
     background: #b8860b;
     font-weight: 300;
     margin-top: 20px;
