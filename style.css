@@ -94,13 +94,36 @@ nav ul li a:hover::after{
 .about-col-1 img{
     width: 100%;
     border-radius: 15px;
+    border: 1px solid #ffd700;
+    padding: 20px;
+    box-shadow: 0 0 25px rgba(113, 115, 119, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    
 }
+.about-col-1 img:hover {
+  /* lift it up and enlarge 5% */
+  transform: translateY(-8px) scale(1.05);
+  box-shadow: 0 0 35px #b8860b;
+
+}
+
 .about-col-2{
     flex-basis: 35%;
 }
 .about-col-2 img{
     width: 100%;
     border-radius: 15px;
+    border: 1px solid #ffd700;
+    padding: 20px;
+    box-shadow: 0 0 25px rgba(113, 115, 119, 0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+}
+.about-col-2 img:hover {
+  /* lift it up and enlarge 5% */
+  transform: translateY(-8px) scale(1.05);
+  box-shadow: 0 0 35px #b8860b;
+
 }
 
 .sub-title{
