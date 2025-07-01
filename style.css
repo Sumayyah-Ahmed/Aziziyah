@@ -132,6 +132,19 @@ nav ul li a:hover::after{
     color: #121212;
 }
 
+.code {
+    font-family: cursive;
+    font-weight: 300;
+
+}
+h5.code span {
+  color: #ffd700;
+  font-weight: 700;
+}
+
+
+
+
 .tab-titles{
     display: flex;
     margin: 20px 0 40px;
