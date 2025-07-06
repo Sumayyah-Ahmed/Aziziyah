@@ -126,6 +126,30 @@ nav ul li a:hover::after{
 
 }
 
+/* Planner */
+#canva-templates { padding: 4rem 2rem; }
+.canva-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+  gap: 1.5rem;
+}
+.canva-card {
+  border: 1px solid #ffd700;
+  border-radius:4px;
+  overflow:hidden;
+  text-align:center;
+}
+.canva-card img {
+  display:block;
+  width:100%;
+  height:auto;
+}
+.canva-card h3 {
+  margin:0.5rem 0;
+  font-size:1rem;
+}
+
+
 .sub-title{
     font-size: 30px;
     font-weight: 600;
