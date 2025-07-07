@@ -346,6 +346,42 @@ h5.code span {
 
 
 /* ---------contact-------- */
+#why-choose-us {
+  padding: 10px 5px;
+  max-width: 800px;
+  margin: 40px auto;
+}
+/* Heading */
+#why-choose-us h2 {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 20px;
+  color:  #b8860b;
+}
+/* List styling */
+#why-choose-us ul {
+  list-style: none;
+  padding: 0;
+}
+#why-choose-us li {
+  margin-bottom: 15px;
+  font-size: 18px;
+  position: relative;
+  padding-left: 30px;
+}
+#why-choose-us li::before {
+  content: "✔";
+  position: absolute;
+  left: 0;
+  top: 2px;
+  color: #28a745; /* Green checkmark */
+  font-weight: bold;
+}
+/* Highlighted keywords */
+#why-choose-us strong {
+  color: #000;
+}
+
 .contact-left{
     flex-basis: 35%;
 }
@@ -356,7 +392,6 @@ h5.code span {
     justify-content: center;
     text-align: center;       
 }
-
 
 .contact-left p{
     margin-top: 30px;
@@ -384,13 +419,22 @@ h5.code span {
 .btn.btn2{
     display: center;
     background:#b8860b;
-    
-
-    
 }
+.contact-right{
+  background: #262626;
+  padding: 30px 25px;
+  border: 3px solid #b8860b;
+  border-radius: 8px;
+  max-width: 500px;      /* optional */
+  margin: 20px auto;     /* centers the box */
+
+}
+
 .contact-right form{
     width: 100%;
+    margin: 0;  
 }
+
 form input, form textarea{
     width: 100%;
     border: 0;
@@ -432,6 +476,7 @@ form .btn2{
   white-space: nowrap;
   overflow: hidden;
   color: #b8860b;
+  text-align: center;
 }
 
 .cursor {
