@@ -83,3 +83,7 @@ function typeWriter() {
 
 // Kick off the effect once DOM is loaded
 document.addEventListener("DOMContentLoaded", typeWriter);
+
+
+
+
