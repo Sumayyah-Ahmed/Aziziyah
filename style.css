@@ -554,6 +554,20 @@ nav .fas{
         font-size: 14px;
     }
 }
+.menu-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.menu-label {
+  font-size: 18px;
+  color: #fff; /* Adjust to match your theme */
+  font-weight: bold;
+}
+
 #msg{
     color: #b8860b;
     margin-top: -40px;
