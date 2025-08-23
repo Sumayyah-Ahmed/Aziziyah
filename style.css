@@ -491,35 +491,13 @@ form .btn2{
 
 
 /* -----------------css for small screens--------- */
-.menu-label {
-  display: none !important;
+nav .fas{
+    display: none;
 }
-
 
 @media only screen and (max-width: 600px){
-    .menu-toggle {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 10px;
-  cursor: pointer;
-}
-
-.menu-label {
-    display: inline-block !important;
-    font-size: 18px;
-    color: #b8860b; /* Adjust to match your theme */
-    font-weight: bold;
-}
-nav .fas {
-    display: block;
-    font-size: 25px;
-}
     #header{
         background-image: url(images/me1.png);
-    }
-    .menu-label {
-        display: inline;
     }
     .header-text{
         margin-top: 100%;
@@ -576,7 +554,6 @@ nav .fas {
         font-size: 14px;
     }
 }
-
 #msg{
     color: #b8860b;
     margin-top: -40px;
