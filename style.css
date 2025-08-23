@@ -499,6 +499,9 @@ nav .fas{
     #header{
         background-image: url(images/me1.png);
     }
+    .menu-label {
+        display: inline;
+    }
     .header-text{
         margin-top: 100%;
         font-size: 16px;
@@ -566,6 +569,9 @@ nav .fas{
   font-size: 18px;
   color: #b8860b; /* Adjust to match your theme */
   font-weight: bold;
+}
+.menu-label {
+    display: none;
 }
 
 #msg{
