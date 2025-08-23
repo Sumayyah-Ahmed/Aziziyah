@@ -46,7 +46,7 @@
 
 
    // typewriter
-const companyName = "Get in touch today!";
+const companyName = "10% of all Profits go to Charitable Causes, Get in touch today!";
 const typingElem = document.getElementById("typing");
 const typingSpeed = 150;   // ms per letter
 const erasingSpeed = 75;   // ms per letter

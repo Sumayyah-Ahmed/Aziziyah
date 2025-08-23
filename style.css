@@ -240,6 +240,10 @@ h5.code span {
     font-weight: 500;
     margin-bottom: 15px;
 }
+.services-list i {
+  color:  #f8f9f9;/* Change this to any color you like */
+}
+
 .services-list div a{
     text-decoration: none;
     color: #121212;
