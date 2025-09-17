@@ -27,7 +27,7 @@
 
 
 
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbxw3fIrXDzgayTWO4MDQrtN-EhXzfrvO2napTv2Mo08PytxdkjFp0YHtaPpXI0arjE3dw/exec' 
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzDZcRsWKccd89wpuKFqteV8OVjjE1uRPAQyGvRQbOTUpiVglKJXDb7jXmuXE80aLS4gA/exec' 
     const form = document.forms['submit-to-google-sheet']
     const msg = document.getElementById("msg")
   
