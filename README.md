@@ -5,14 +5,14 @@
 # Aziziyah — Creative Tech & Full‑Stack Solutions
 
 Welcome to the official repository for **Aziziyah**, a modern IT and creative technology studio delivering elegant, high‑impact digital experiences.  
-We build thoughtful, user‑centered solutions across web, mobile, branding, and automation. Always with clarity, empathy, and profecency.
+We build thoughtful, user‑centered solutions across web, mobile, branding, and automation. Always with clarity, empathy, and proficiency.
 
 ## 🚀 What We Do
-- **Full‑Stack Web Development**  
-  Modern, scalable applications with clean architecture and intuitive UX.
+- **Full‑Stack Web Development** 
+  Modern, scalable applications featuring clean architecture and intuitive UX.
 
 - **UI/UX & Product Design**  
-  Interfaces shaped with clarity, visual hierarchy, and brand personality.
+  Interfaces designed with clarity, visual hierarchy, and brand personality.
 
 - **Branding & Creative Direction**  
   Identity systems, microcopy, and visual storytelling that feel human and intentional.
