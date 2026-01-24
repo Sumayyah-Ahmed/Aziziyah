@@ -9,7 +9,7 @@ We build thoughtful, user‑centered solutions across web, mobile, branding, and
 
 ## 🚀 What We Do
 - **Full‑Stack Web Development**  
-  Modern, scalable applications built with clean architecture and intuitive UX.
+  Modern, scalable applications with clean architecture and intuitive UX.
 
 - **UI/UX & Product Design**  
   Interfaces shaped with clarity, visual hierarchy, and brand personality.
