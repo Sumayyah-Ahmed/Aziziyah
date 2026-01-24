@@ -37,6 +37,6 @@ Visit the official site: [aziziyah.net](https://aziziyah.net)
 ## 📬 Contact
 For collaborations, client work, or inquiries:  
 **Email:** aziziyahnet@outlook.com  
-**Portfolio:** https://sumayyah-ahmed.github.io/Portfolio/
-**GitHub:** https://github.com/Sumayyah-Ahmed
+**Portfolio:** https://sumayyah-ahmed.github.io/Portfolio/ <br>
+**GitHub:** https://github.com/Sumayyah-Ahmed<br>
 **LinkedIn:** https://linkedin.com/in/saa11
